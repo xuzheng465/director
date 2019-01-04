@@ -1,0 +1,4 @@
+Navbar testing:
+Welcome page testing:
+React App Page open ok.
+Welcome page go to dashboard ok.

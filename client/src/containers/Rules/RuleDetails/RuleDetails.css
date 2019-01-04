@@ -1,0 +1,61 @@
+.Title {
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+.Button {
+  background-color: #0ea800;
+  text-decoration: none;
+  text-align: center;
+  color:white;
+  border-radius: 5px;
+  padding: 5px;
+  width:60px;
+}
+
+.Button:hover {
+  background-color: #1a8b57;
+  text-decoration: none;
+  text-align: center;
+  color:white;
+  border-radius: 5px;
+  padding: 5px;
+  width:60px;
+}
+
+.RemoveButton {
+  background-color: #515b6c;
+  text-decoration: none;
+  text-align: center;
+  color:white;
+  border-radius: 5px;
+  padding: 5px;
+  width:60px;
+}
+
+.RemoveButton:hover {
+  background-color: #66748c;
+  text-decoration: none;
+  text-align: center;
+  color:white;
+  border-radius: 5px;
+  padding: 5px;
+  width:60px;
+}
+
+.Taglabel {
+  background-color: gray;
+  border: none;
+  height: 24px;
+  font-size: 15px;
+  padding-top: 0;
+  margin-bottom: 30px;
+}
+
+.Th {
+  width: 300px;
+}
+
+.Tables {
+  width: 800px;
+}

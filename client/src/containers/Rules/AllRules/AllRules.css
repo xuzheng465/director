@@ -1,0 +1,48 @@
+.Tablestyle {
+  margin-left: 200px;
+  width: 850px;
+}
+
+.Tablestylee {
+  margin-left: 200px;
+  width: 900px;
+}
+
+.Paginationstyle {
+  width: 200px;
+  margin-top: 10px;
+  font-size: 20px;
+  margin-left: 750px;
+}
+
+.Btnstyle {
+  margin-left: 100px;
+}
+
+.Button {
+  background-color: #0ea800;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.Button:hover {
+  background-color: #1a8b57;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.rtitle {
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.htitle {
+  width: 1500px;
+  margin-left: 200px;
+}

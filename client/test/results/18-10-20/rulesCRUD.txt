@@ -1,0 +1,3 @@
+Rules CRUD testing:
+FreeStyle | Director Page open ok.
+rules deletion ok.

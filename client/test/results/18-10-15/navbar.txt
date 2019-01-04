@@ -1,0 +1,6 @@
+Navbar testing:
+React App Page open ok.
+	displayrules ok
+	logo ok
+	addrules ok
+	displayrules ok

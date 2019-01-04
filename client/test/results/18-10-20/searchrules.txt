@@ -1,0 +1,6 @@
+Rules searching testing:
+FreeStyle | Director Page open ok.
+search rule on dashboard ok.
+FreeStyle | Director Page open ok.
+search rule on display ok.
+FreeStyle | Director Page open ok.

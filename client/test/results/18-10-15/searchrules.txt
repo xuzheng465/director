@@ -1,0 +1,6 @@
+Rules searching testing:
+React App Page open ok.
+search rule on dashboard ok.React App Page open ok.
+search rule on display ok.React App Page open ok.
+search rule on add rules ok.React App Page open ok.
+SEARCH ON RESULT PAGE FAILED. STH'S WRONG DUDE!!!!!

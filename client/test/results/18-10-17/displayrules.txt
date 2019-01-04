@@ -1,0 +1,3 @@
+Rules display testing:
+FreeStyle | Director Page open ok.
+Rule details ok.
